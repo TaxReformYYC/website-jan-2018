@@ -79,23 +79,6 @@ theme: Hacker
 deploy:
   type:
 
-# For hexo-theme-toki
-#jsonContent:
-#  meta: false
-#  pages: false
-#  posts:
-#    title: true
-#    date: true
-#    path: true
-#    text: true
-#    raw: false
-#    content: false
-#    slug: false
-#    updated: false
-#    comments: false
-#    link: false
-#    permalink: false
-#    excerpt: false
-#    categories: false
-#    tags: false
-
+# Sitemap
+sitemap:
+  path: sitemap.xml

@@ -1,8 +1,8 @@
 menu:
-  Home: /
   About: /about
   Archives: /archives
   Donate: /donate
+  GitHub: https://github.com/TaxReformYYC
 
 # duoshuo comment
 duoshuo: false
