@@ -1,0 +1,17 @@
+version: '3'
+services:
+  nginx:
+    image: nginx
+    restart: on-failure
+    environment:
+      - VIRTUAL_HOST=taxreformyyc.com
+      - LETSENCRYPT_HOST=taxreformyyc.com
+      - LETSENCRYPT_EMAIL=daniel@capitolhill.ca
+    expose:
+      - 80
+    volumes:
+      - ./_site:/usr/share/nginx/html
+networks:
+  default:
+    external:
+      name: nginx-proxy
