@@ -1,0 +1,16 @@
+menu:
+  Home: /
+  About: /about
+  Archives: /archives
+  Donate: /donate
+
+# duoshuo comment
+duoshuo: false
+duoshuo_name:
+
+# disqus comment
+disqus: false
+disqus_shortname:
+
+# google analytics
+googleTrackId:
