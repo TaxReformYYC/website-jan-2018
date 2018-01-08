@@ -7,8 +7,8 @@ title: TaxReformYYC
 subtitle: Since 2016
 description: This site documents my efforts in calling City of Calgary property assessors to account.
 author: Daniel Bidulock
-language:
-timezone:
+language: en
+timezone: America/Edmonton
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
