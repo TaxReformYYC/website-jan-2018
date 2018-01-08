@@ -10,7 +10,7 @@ services:
     expose:
       - 80
     volumes:
-      - ./_site:/usr/share/nginx/html
+      - ./public:/usr/share/nginx/html
 networks:
   default:
     external:
