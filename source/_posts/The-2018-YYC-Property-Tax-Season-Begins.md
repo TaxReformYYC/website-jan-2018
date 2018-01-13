@@ -6,7 +6,7 @@ tags:
 
 I received my property assessment notice in the mail today. Once again, I have to appeal before Calgary's <a href="http://www.calgaryarb.ca/eCourtPublic/">Assessment Review Board</a>.
 
-I've won three appeals. The precendent has been set as matter of public record.
+I've won three appeals. The precedent has been set and is as matter of public record.
 
 | Year | ARB File # | Original Asmnt | Corrected Asmnt | Tax Savings |
 | ---- | ---------: | -------------: | --------------: | ----------: |
