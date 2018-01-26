@@ -2,6 +2,7 @@
 title: How does TaxReformYYC recalculate property assessments?
 date: 2016-03-02 18:58:50 -0700
 tags:
+- letter
 ---
 
 

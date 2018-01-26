@@ -2,6 +2,9 @@
 title: MLA Sandra Jansen - Provincial Law Undermines Bureaucratic Accountability
 date: 2017-08-10 06:39:17
 tags:
+- jansen
+- province
+- mla
 ---
 
 ## Howdy Sandra!

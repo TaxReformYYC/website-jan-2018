@@ -2,6 +2,9 @@
 title: 'Calgary needs your leadership, Councillor Ward Sutherland'
 date: 2017-03-24 13:09:01
 tags:
+- sutherland
+- councilor
+- city
 ---
 
 Ward, please allow me to apologize for being short with you. You deserve better, and you will receive better from me. It is regrettable that after these two years, our first contact would be marred by such hostility. I hope there is opportunity for reconciliation and partnership between us.

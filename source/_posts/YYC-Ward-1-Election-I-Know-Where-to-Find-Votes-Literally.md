@@ -2,6 +2,7 @@
 title: YYC Ward 1 Election... I Know Where to Find Votes... Literally!
 date: 2017-08-31 14:47:17
 tags:
+- election
 ---
 
 ## Coral, Cole, Chris, and Ward... Howdy!

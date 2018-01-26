@@ -2,6 +2,7 @@
 title: Bill Smith for mayor? Make open data an election issue
 date: 2017-08-08 09:16:39
 tags:
+- election
 ---
 
 ## Howdy Bill!

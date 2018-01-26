@@ -2,6 +2,8 @@
 title: Calgarians aren't allowed to calculate their own property taxes
 date: 2016-09-16 12:59:52
 tags:
+- transparency
+- province
 ---
 
 Assessment Review day finally arrived! I filed an appeal in March and was allowed the privilege of getting some answers from the City's assessors.

@@ -2,6 +2,7 @@
 title: Opportunity to Serve My Community - Denied!.. Again!
 date: 2017-11-07 11:44:42
 tags:
+- nenshi
 - board-application
 ---
 

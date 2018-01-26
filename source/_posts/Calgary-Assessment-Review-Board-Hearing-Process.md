@@ -2,6 +2,8 @@
 title: Calgary Assessment Review Board - Hearing Process
 date: 2016-08-25 14:17:42
 tags:
+- arb
+- city
 ---
 
 Though I've submitted evidence for many appeals, today was my first time attending a hearing. Like many Calgarians, my friends Nathan and Lauren were faced with the daunting task of challenging the assessment of our inscrutable, opaque, property assessment bureaucracy. And when I say _opaque_ I mean _opaque_. The representative for the city admitted on record that the methods they use to arrive at your property assessment are not divulged to the people who pay their salaries. [That should make you really mad](http://www.calgary.ca/citycouncil/Pages/citycouncil.aspx?redirect=/general/pages/calgary-city-council.aspx).

@@ -2,6 +2,7 @@
 title: The 2018 YYC Property Tax Season Begins
 date: 2018-01-05 13:33:43
 tags:
+- howdy
 ---
 
 I received my property assessment notice in the mail today. Once again, I have to appeal before Calgary's <a href="http://www.calgaryarb.ca/eCourtPublic/">Assessment Review Board</a>.

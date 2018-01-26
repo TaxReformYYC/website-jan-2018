@@ -2,6 +2,9 @@
 title: Data can make Calgary even better
 date: 2017-03-31 21:27:52
 tags:
+- sutherland
+- councilor
+- city
 ---
 
 Thank you, Ward, for hearing my issue. This is what I'll be asking of you at our meeting on Monday. I'll be as concise as possible.

@@ -2,6 +2,9 @@
 title: YYC Property Tax Secrets... Councillor Ward Sutherland
 date: 2017-02-02 13:56:59
 tags:
+- sutherland
+- councilor
+- city
 ---
 
 ## Howdy, Ward!

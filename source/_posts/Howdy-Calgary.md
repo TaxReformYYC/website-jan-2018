@@ -2,6 +2,7 @@
 title: Howdy, Calgary!
 date: 2016-02-18 18:58:50 -0700
 tags:
+- howdy
 ---
 
 ## Fellow Calgarian,
