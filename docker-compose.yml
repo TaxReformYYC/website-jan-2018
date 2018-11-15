@@ -6,7 +6,7 @@ services:
     environment:
       - VIRTUAL_HOST=taxreformyyc.com
       - LETSENCRYPT_HOST=taxreformyyc.com
-      - LETSENCRYPT_EMAIL=daniel@capitolhill.ca
+      - LETSENCRYPT_EMAIL=daniel@example.com
     expose:
       - 80
     volumes:
