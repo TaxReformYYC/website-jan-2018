@@ -27,7 +27,7 @@ Though writing civic software has become a bit of a hobby, it's not something I 
 
 ## Dan 
 
-P.s., who is the most senior labourer in the ABU? I require email and postal addresses. I have several questions arising from this year's ARB decision that need to be addressed. I also want to extend a personal invitation. If this matter ends up in judicial review in 2019, it would not be fair or appropriate to have a subordinate face me at this year's ARB appeal. 
+P.s., who is the most senior labourer in the ABU? I require email and postal addresses. I have several questions arising from this year's ARB decision that need to be addressed. I also want to extend a personal invitation. If this matter ends up in judicial review in 2019, it would not be fair or appropriate to have a subordinate face me at my next ARB appeal. 
 
 ---
 
