@@ -1,5 +1,5 @@
 ---
-title: Howdy Abe!
+title: Howdy Abe! Let's talk innovation and open data...
 date: 2018-11-15 11:37:31
 tags:
 - labour
@@ -21,11 +21,11 @@ I am confident my current process can handle the roughly 2,000 property reports 
 
 Minimally, I require all the property reports for Rocky Ridge for this year. I will also require these reports for the 2019 tax season, preferably before assessments are mailed in early January. A year-over-year comparison will shed even more light on our problem.
 
-Though writing civic software has become a bit of a hobby, it's not something I want to pursue forever, because ultimately this is all a terrible waste of my time and money. Thank you for your offer of helping me acquire the data I need to build my community and hold my government to account. Your quick consideration of this matter is appreciated.
+Though writing civic software has become a bit of a hobby, it's not something I want to pursue forever, because ultimately this is all a terrible waste of my time and money. Thank you for your offer to help me acquire the data I need to serve my community and hold my government to account. Your quick consideration of this matter is appreciated.
 
-Peace,
+### Peace,
 
-Dan 
+## Dan 
 
 P.s., who is the most senior labourer in the ABU? I require email and postal addresses. I have several questions arising from this year's ARB decision that need to be addressed. I also want to extend a personal invitation. If this matter ends up in judicial review in 2019, it would not be fair or appropriate to have a subordinate face me at this year's ARB appeal. 
 
